@@ -3,7 +3,7 @@ files:
 - name: last_digit_of_fibonacci_number.py
   visible: true
   placeholders:
-  - offset: 334
+  - offset: 409
     length: 98
     placeholder_text: type here
     initial_state:
@@ -39,13 +39,13 @@ files:
   visible: true
   placeholders:
   - offset: 466
-    length: 23
+    length: 25
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 466
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     import unittest
@@ -107,5 +107,5 @@ status: Unchecked
 feedback:
   message: Local tests passed, please <a href="https://www.coursera.org/learn/algorithmic-toolbox/programming/b66y2/programming-assignment-2-algorithmic-warm-up/submission">submit
     to Coursera</a>
-  time: Mon, 10 Jan 2022 10:25:32 UTC
+  time: Fri, 14 Jan 2022 20:28:28 UTC
 record: -1
