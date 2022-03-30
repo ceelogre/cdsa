@@ -14,7 +14,7 @@ files:
       offset: 74
     initialized_from_dependency: false
     selected: false
-    status: Failed
+    status: Unchecked
   text: |
     # python3
 
@@ -32,14 +32,14 @@ files:
   visible: true
   placeholders:
   - offset: 187
-    length: 1
+    length: 5
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 187
     initialized_from_dependency: false
     selected: true
-    status: Failed
+    status: Unchecked
   text: |
     import unittest
     from money_change import money_change
@@ -81,9 +81,9 @@ files:
             passed()
   learner_created: false
 feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-3-greedy-algorithms/discussions
-status: Failed
+status: Unchecked
 feedback:
-  message: Some unit tests failed. Please fix your code, ensure that all unit tests
-    pass, and try again.
-  time: Thu, 27 Jan 2022 14:58:20 UTC
+  message: Local tests passed, please <a href="https://www.coursera.org/learn/algorithmic-toolbox/programming/kAiGl/programming-assignment-3-greedy-algorithms/submission">submit
+    to Coursera</a>
+  time: Wed, 02 Feb 2022 16:51:59 UTC
 record: -1
